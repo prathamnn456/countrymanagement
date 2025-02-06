@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import CountryList from "./components/CountryList";
 import "./styles/App.css";
+import { BrowserRouter as Router } from "react-router-dom";
 
 
 const App = () => {
@@ -30,6 +31,7 @@ const App = () => {
   };
 
   return (
+    <Router basename="/countrymanagement">
     <div>
       <h1>Country, State, and City Management</h1>
       <button onClick={addCountry}>Add Country</button>
@@ -40,6 +42,7 @@ const App = () => {
         setCountries={setCountries}
       />
     </div>
+    </Router>
   );
 };
 
