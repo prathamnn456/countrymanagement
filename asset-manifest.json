@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/countrymanagement/static/css/main.8695f502.css",
-    "main.js": "/countrymanagement/static/js/main.d476f95e.js",
+    "main.js": "/countrymanagement/static/js/main.93348fd6.js",
     "static/js/151.8d09e358.chunk.js": "/countrymanagement/static/js/151.8d09e358.chunk.js",
     "index.html": "/countrymanagement/index.html",
     "main.8695f502.css.map": "/countrymanagement/static/css/main.8695f502.css.map",
-    "main.d476f95e.js.map": "/countrymanagement/static/js/main.d476f95e.js.map",
+    "main.93348fd6.js.map": "/countrymanagement/static/js/main.93348fd6.js.map",
     "151.8d09e358.chunk.js.map": "/countrymanagement/static/js/151.8d09e358.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8695f502.css",
-    "static/js/main.d476f95e.js"
+    "static/js/main.93348fd6.js"
   ]
 }
